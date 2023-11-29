@@ -1146,6 +1146,9 @@ ul.top_infomation li a {
 ul.top_infomation li a:hover {
     color: #778899;
 }
+ul.top_infomation li a:hover {
+    color: #778899;
+}
 
 .copyright {
     margin-top: 90px;
